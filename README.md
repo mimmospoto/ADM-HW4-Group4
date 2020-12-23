@@ -10,6 +10,6 @@ The repository contains the following files:
         > you can find the Exercese 1 about the Hashing function and Exercise 3 about the sorting algorithm.
  
 
-2. [Exercise2.ipynb](https://nbviewer.jupyter.org/github/FrancescoVV/ADM_Homework_3/blob/main/Homework3.ipynb):
+2. [Exercise2.ipynb](https://nbviewer.jupyter.org/github/mimmospoto/ADM-HW4-Group4/blob/main/Exercise2.ipynb):
           
           > you can find Exercise 2 about the analysis of the Reviews dataset of Amazon Fine Food.
