@@ -7,7 +7,7 @@ The repository contains the following files:
 
 1. [Exercise1 and 3.ipynb](https://nbviewer.jupyter.org/github/FrancescoVV/ADM_Homework_3/blob/main/DataCollection%26DataStructure%28Point1%29.ipynb):
 
-        > you can find the Exercese 1 about the Hashing function and Exercise 3 about the sorting algorithm
+        > you can find the Exercese 1 about the Hashing function and Exercise 3 about the sorting algorithm.
  
 
 2. [Exercise2.ipynb](https://nbviewer.jupyter.org/github/FrancescoVV/ADM_Homework_3/blob/main/Homework3.ipynb):
